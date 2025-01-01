@@ -1,4 +1,4 @@
-  =>  Template Name    : Concerties
+  =>  Template Name    : Conserties
 
   =>  Template Link    : https://htmlcodex.com/it-solutions-website-template
 
